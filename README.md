@@ -1,6 +1,6 @@
 # dotfiles
 
-![Desktop Screenshot](desktop.png)
+![Desktop Screenshot]
 
 ## alacritty
 
